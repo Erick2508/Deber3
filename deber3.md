@@ -9,7 +9,7 @@ Especificos
 
 **2.-Marco téorico**
 
-![17](https://user-images.githubusercontent.com/75336529/122848216-b6fc0e00-d2ce-11eb-9e31-5631c9712ac0.png)
+![18](https://user-images.githubusercontent.com/75336529/122848596-7f419600-d2cf-11eb-9adb-b532d3012a1a.png)
 
 ![2](https://user-images.githubusercontent.com/75336529/122844527-78168a00-d2c7-11eb-99d0-928321aaf63f.png)
 
