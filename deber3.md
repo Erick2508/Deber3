@@ -5,7 +5,15 @@
 
 General
 
+-Analizar e Identificar los conceptos básicos  de los circuitos en serie y paralelo, de manera que se pueda resolver aplicando las formulas respectivamente al circuito que pertenecen.
+
 Especificos
+
+- Aplicar ley de Ohm y Kirchhoff, respectivamente al circuito que se vara a resolver. 
+
+- Analizar procedimientos adecuados para los circuitos eléctricos tanto como en serie y paralelo.
+
+-Identificar semejanzas y diferencias los conceptos básicos de circuitos en serie y paralelo.
 
 **2.-Marco téorico**
 
@@ -49,10 +57,22 @@ Especificos
 
 ![16](https://user-images.githubusercontent.com/75336529/122811505-2dc8e500-d296-11eb-862a-693d7a75b2f6.jpg)
 
+![19](https://user-images.githubusercontent.com/75336529/122854805-e6fcde80-d2d9-11eb-95f3-0f109a8b994e.jpg)
+
+![20](https://user-images.githubusercontent.com/75336529/122854694-b6b54000-d2d9-11eb-938a-d2263394aec8.jpg)
+
+![21](https://user-images.githubusercontent.com/75336529/122854731-c59bf280-d2d9-11eb-87a7-80217f03eed3.jpg)
+
+![22](https://user-images.githubusercontent.com/75336529/122854755-d0ef1e00-d2d9-11eb-9fa0-7f5bb851f061.jpg)
+
+![23](https://user-images.githubusercontent.com/75336529/122854785-dc424980-d2d9-11eb-8154-bd52b5bc84b1.jpg)
+
+
 **4.-Video**
 
-Video:
+Video:https://www.youtube.com/watch?v=5R7KJPQfuE8
 
 **5.-Conclusiones**
+
 
 **6.-Bibliografia**
