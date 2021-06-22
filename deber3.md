@@ -74,5 +74,6 @@ Video:https://www.youtube.com/watch?v=5R7KJPQfuE8
 
 **5.-Conclusiones**
 
+Se llegó a la conclusión que los circuitos en serie son fáciles de diferenciar, por lo que tiene los componentes seguidos en el circuito, a diferencia de los circuitos en paralelo que tienen terminales de entrada cada uno, como sus terminales de salida que coinciden entre sí, la cual se procedió a elaborar procedimientos para la resolución de los ejemplos, asi mismo se obtuvo resultados comprobados manualmente aplicando la ley de Ohm, ley de Kirchhoff, divisor de corriente y voltajes.
 
 **6.-Bibliografia**
