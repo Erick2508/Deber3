@@ -9,6 +9,12 @@ Especificos
 
 **2.-Marco téorico**
 
+![17](https://user-images.githubusercontent.com/75336529/122848216-b6fc0e00-d2ce-11eb-9e31-5631c9712ac0.png)
+
+![2](https://user-images.githubusercontent.com/75336529/122844527-78168a00-d2c7-11eb-99d0-928321aaf63f.png)
+
+![3](https://user-images.githubusercontent.com/75336529/122844539-7ea50180-d2c7-11eb-8462-caf5ea68f521.png)
+
 **3.-Explicación**
 
 ![1](https://user-images.githubusercontent.com/75336529/122810745-52708d00-d295-11eb-94ab-ba68df6f71c9.jpg)
